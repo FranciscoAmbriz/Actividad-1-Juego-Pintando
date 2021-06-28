@@ -9,6 +9,8 @@ Exercises
 5. Add width parameter.
 
 """
+"Autor: Francisco Antonio Ambriz Almazan
+"Matricula: A01379117
 
 from turtle import *
 
